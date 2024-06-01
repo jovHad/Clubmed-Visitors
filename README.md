@@ -38,6 +38,6 @@ To run this project, you need:
 
 ## How to Run
 
-1. Clone the repository:
+1. Clone the repository and open it on PyCharm:
    ```sh
- https://github.com/jovHad/Clubmed-Visitors
+   https://github.com/jovHad/Clubmed-Visitors
