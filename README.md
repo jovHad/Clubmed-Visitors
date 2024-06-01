@@ -30,6 +30,29 @@ clubmember- whether the guest is a mmber of the club or not
 ranking- guest ranking of club during the last stay.
 
 
+## Some Conclusions
+### countplot of accommodation by club_mamber:
+![image](https://github.com/jovHad/Clubmed-Visitors/assets/166914091/38250782-8d6d-4110-84d9-1a2031057600)
+Club Members:
+we can learn from it that top choice of accommodation of the club members is Junior Suite - above data count of 40,
+then, close in data value is standerd accommodation, around data count of 40,while the least and a little far from those,
+is delux villa accommodation, which it's data count value is a little above 10.
+Non - Club Members:
+We can learn from it that top choice of accommodation of non - club members is standard - around data count of 35,
+then, close in data value is Junior Suite, above data count of 30,
+and the least is delux villa, which it's data count value is under 30.
+
+An explenation to this may be that members come more frequntly so they don't want to spend as much money as
+non-members, that probably come once in a while.##
+
+### crostab norm of ranking by accommodation:
+![image](https://github.com/jovHad/Clubmed-Visitors/assets/166914091/8268187a-b1d6-470c-b7e5-c821343ab0f9)
+Over all :
+There is no correlation between rating to the accommodation choice. 
+this graf is problematic to see
+the difference because we can't see the presage frequency between each accommodation. We can se kind of normal
+distribution in the delux category, around 3 value rating, and a big jump at 7 value rating.
+
 ## Requirements
 
 To run this project, you need:
