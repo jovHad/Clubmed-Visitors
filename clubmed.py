@@ -101,8 +101,7 @@ plt.show()
 # B # Over all there is no correlation between rating to the accommodation choice. # this graf is problematic to see
 # the difference because we can't see the presage frequency between each accommodation. We can se kind of normal
 # distribution in the delux category, around 3 value rating, and a big jump at 7 value rating.
-# אולי אלו שלא קלאב ממברז פסיכולוגית מוציאים פחות כי מפחדים שהם יגיעו יותר כי הם קלאב ממברס
-# sikitlearn
+
 crostab_norm = pd.crosstab(index=df.ranking, columns=df.region, normalize="index")
 crostab_norm.plot.bar(stacked=True)
 plt.title("Ranking - region")
